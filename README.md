@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manas2403
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML and CSS
 - 📫 you can reach me on my mail guptamanas149@gmail.com
 
