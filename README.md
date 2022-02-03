@@ -11,8 +11,7 @@
 
 <br/>
 
-<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Manas2403"><img src="https://img.shields.io/github/followers/Manas2403?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a href="https://github.com/Manas2403?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
+<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Manas2403"><img src="https://img.shields.io/github/followers/Manas2403?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a 
 <br/>
 
 
