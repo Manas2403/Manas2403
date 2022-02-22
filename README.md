@@ -1,7 +1,7 @@
 
  
 
-### <p align="center"> ![Hello](https://user-images.githubusercontent.com/88873588/136410356-e0ba0c6f-5dd5-46d9-bed8-e022926a3f89.gif) Manas Gupta👋 </p>
+![Hello](https://user-images.githubusercontent.com/88873588/136410356-e0ba0c6f-5dd5-46d9-bed8-e022926a3f89.gif) Manas Gupta👋 
 
 ### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Web Dev Enthusiast &nbsp; | &nbsp; A Guitarist 🎸 &nbsp;  </p>
 
