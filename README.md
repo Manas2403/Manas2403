@@ -1,6 +1,6 @@
 
  
-<div align="center">
+###<div align="center">
 ![Hello](https://user-images.githubusercontent.com/88873588/136410356-e0ba0c6f-5dd5-46d9-bed8-e022926a3f89.gif) Manas Gupta👋 
 </div>
 ### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Web Dev Enthusiast &nbsp; | &nbsp; A Guitarist 🎸 &nbsp;  </p>
