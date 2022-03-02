@@ -22,6 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 
 <br/>
