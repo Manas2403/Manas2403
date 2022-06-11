@@ -26,7 +26,7 @@
 ![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
- ![CPP](https://img.shields.io/badge/-CPP-05122A?style=flat&logo=CPP&logoColor=A8B9CC)&nbsp;
+ ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
 <br/>
 
 <h2>⚙️ GitHub Analytics</h2>
