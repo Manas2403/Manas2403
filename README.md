@@ -25,7 +25,7 @@
 ![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
-
+![Solidity](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Solidity)&nbsp;
 <br/>
 
 <h2>⚙️ GitHub Analytics</h2>
