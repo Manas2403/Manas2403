@@ -27,6 +27,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
+  ![Nextjs](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs&logoColor=A8B9CC)&nbsp;
 <br/>
 
 <h2>⚙️ GitHub Analytics</h2>
