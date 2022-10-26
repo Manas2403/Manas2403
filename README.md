@@ -57,7 +57,6 @@
 <h3> 🤝🏻 Connect With Me @ </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/manas-gupta-439392224/)
-[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Manas2403)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/manas1707/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:guptamanas149@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/ManasMG24)
